@@ -1,0 +1,22 @@
+#Logout-Main-Box{
+	position: absolute;
+	top:0;	
+	min-width:100%;
+	background-color:orangered;
+	justify-content: center;
+	align-items: center;	
+}
+#Logout-Controll-Box{
+	min-height:600px;
+	align-items: center;
+	justify-content: center;
+}
+
+#yes-btn,#no-btn{
+	font-size: 28px;
+	font-weight: 600;
+	letter-spacing: 1px;	
+}
+#yes-btn:hover, #no-btn:hover{
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.7);
+}

@@ -1,0 +1,26 @@
+#warn-confirmpass{
+	display:none;
+}
+#btn-submit{
+	font-size: 18px;
+	letter-spacing: 2px;
+	font-weight:600;
+}
+#btn-submit:hover{
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+}
+#signup-label{
+	font-size: 3rem;
+	color:purple;
+	text-shadow:0px 3px 4px black;
+	letter-spacing: 2px;
+}
+#signup-form label{
+	font-size: 17px;
+	font-weight: 600;
+}
+#signup-form input{
+	font-size: 21px;
+	font-weight: 600;
+	letter-spacing: 1px;	
+}

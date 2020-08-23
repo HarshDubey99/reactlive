@@ -1,0 +1,30 @@
+#AddStudent-Main-Box{
+	position: absolute;
+	top:0;
+	min-width:100%;	
+	justify-content: center;
+	align-items: center;	
+	scroll-behavior: smooth;
+	background-color: #343A40;
+}
+#AddStudent-Main-Box #panel-label{
+	font-size: 3rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow:0px 3px 4px black;
+}
+#add-new-student-form label{
+	font-size: 17px;
+	font-weight: 600;
+	padding-left: 10px;
+	letter-spacing: 1px;
+}
+#add-student-btn, #back-btn{
+	font-size: 18px;
+	font-weight: 600;
+	letter-spacing: 2px;
+}
+#add-student-btn:hover, #back-btn:hover{
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+}

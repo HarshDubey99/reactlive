@@ -1,0 +1,50 @@
+body{
+	background-color: orangered;
+}
+#Admin-Main-Box{
+	position: absolute;
+	top:0;
+	min-width:100%;	
+	justify-content: center;
+	align-items: center;	
+	scroll-behavior: smooth;
+}
+#Admin-Head-Nav{
+	height:10%;
+	box-shadow:0px 8px 16px 0px rgba(0,0,0,0.5);
+}
+#Admin-Head-Nav #BrandName{
+	font-family: Broadway;
+	font-size:2rem;
+	align-items: center;
+}
+#Admin-Head-Nav ul li a{
+	font-family: calibri;
+	font-size: 25px;
+	letter-spacing: 2px;	
+}
+#Admin-Head-Nav ul li a:hover{
+	text-shadow: 0px 2px 3px black;
+}
+#card-box:hover{
+	transition: 0.6s;	
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);	
+}
+#card-box h3{
+	letter-spacing: 2px;
+	text-shadow: 0px 2px 3px black;
+}
+#card-box h1{
+	letter-spacing: 2px;
+	font-size: 4rem;
+	text-shadow: 0px 2px 3px black;
+}
+#card-box #btn-view{
+	font-size: 18px;
+	font-weight: 600;
+	letter-spacing: 2px;	
+}
+#student-card-img{
+	height:200px;
+	width:200px;	
+}

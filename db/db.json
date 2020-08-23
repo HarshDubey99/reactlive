@@ -1,0 +1,105 @@
+{
+  "admin": [
+    {
+      "name": "Riya Roy",
+      "email": "riya@123.com",
+      "password": "cml5YTEyMw==",
+      "confirmpassword": "cml5YTEyMw==",
+      "id": 1
+    },
+    {
+      "name": "Admin",
+      "email": "admin@123.com",
+      "password": "YWRtaW4xMjM=",
+      "confirmpassword": "YWRtaW4xMjM=",
+      "id": 2
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "rollno": 1,
+      "name": "Harsh Dubey",
+      "age": 18,
+      "contact": 9988776655,
+      "std": 7,
+      "section": "A"
+    },
+    {
+      "rollno": "2",
+      "name": "Abhishek Kumar",
+      "age": "16",
+      "contact": "9900778877",
+      "std": "7",
+      "section": "B",
+      "id": 2
+    },
+    {
+      "rollno": "3",
+      "name": "Meera Roy",
+      "age": "18",
+      "contact": "9900988777",
+      "std": "7",
+      "section": "B",
+      "id": 3
+    },
+    {
+      "rollno": "2",
+      "name": "Kanika Sharma",
+      "age": "15",
+      "contact": "9002345678",
+      "std": "7",
+      "section": "A",
+      "id": 4
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Riya Kapoor",
+      "subject": "English",
+      "age": "33",
+      "gender": "Female",
+      "city": "Mumbai",
+      "contact": "9876543210",
+      "id": 1
+    },
+    {
+      "gender": "Male",
+      "name": "Mahesh Thakur",
+      "subject": "Hindi",
+      "age": "35",
+      "city": "Mumbai",
+      "contact": "9900988777",
+      "id": 2
+    }
+  ],
+  "employee": [
+    {
+      "name": "Aman Singh",
+      "department": "Account",
+      "age": "35",
+      "city": "Mumbai",
+      "contact": "9004567765",
+      "id": 1,
+      "gender": "Male"
+    },
+    {
+      "name": "Kabir Singh",
+      "department": "HR",
+      "age": "35",
+      "gender": "Male",
+      "city": "Mumbai",
+      "contact": "9002323434",
+      "id": 2
+    },
+    {
+      "name": "Rohit Kumar",
+      "department": "IT",
+      "age": "33",
+      "gender": "Male",
+      "city": "Mumbai",
+      "contact": "9988778877",
+      "id": 3
+    }
+  ]
+}
