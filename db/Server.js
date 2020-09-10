@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 const mongoose = require("mongoose");
 const Admin = require("./model/admin.model");
-const dbUrl = "mongodb+srv://HD:harshchandradubey@cluster0.ppger.mongodb.net/sms?retryWrites=true&w=majority";
+const dbUrl = "mongodb+srv://HD:userpassword@cluster0.ppger.mongodb.net/sms?retryWrites=true&w=majority";
 const adminRouter = require("./routes/adminRouter");
 const studentRouter = require("./routes/studentRouter");
 const facultyRouter = require("./routes/facultyRouter");
